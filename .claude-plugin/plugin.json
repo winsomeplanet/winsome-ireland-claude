@@ -1,0 +1,9 @@
+{
+  "name": "winsome-ireland",
+  "displayName": "Winsome Ireland",
+  "version": "1.0.0",
+  "description": "Plan time outdoors in Ireland with official open data: EPA bathing-water status before any swim, Met Éireann outdoor forecasts, and trails, beaches, forests and heritage sites for all 26 counties, on an interactive map.",
+  "author": { "name": "Winsome Planet", "url": "https://winsomeplanet.com" },
+  "homepage": "https://winsomeplanet.com/claude",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "winsome-ireland": {
+      "type": "http",
+      "url": "https://winsomeplanet.com/api/mcp"
+    }
+  }
+}
